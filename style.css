@@ -43,10 +43,13 @@ gap: 0.5rem;
   border: 2px #b8b7b7 solid;
   border-radius: 0.5rem;
   padding: 1rem;
-  
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: 150%;
   height: 200px;
   width: 200px;
   align-items: end;
+  
 }
 /* .card figure img {
   height: 100%;
